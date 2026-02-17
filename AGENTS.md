@@ -34,3 +34,4 @@ npm run tauri dev
 
 ## Good to knows
 - 
+- registry.npmjs.org may return 403 in this environment, so prefer existing dependencies when possible.

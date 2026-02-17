@@ -33,4 +33,5 @@ npm run tauri dev
 - You cannot source control ANYTHING, however you can use git log to view previous commits and interface with the git history, read only no write
 
 ## Good to knows
+- npm install may fail for new packages in this environment with a 403 from the npm registry; prefer working with existing dependencies or local type shims when possible.
 - 
